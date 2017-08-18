@@ -154,3 +154,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+3.ConvolutionalNeuralNetworks/intro-to-tensorflow/notMNIST*
+

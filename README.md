@@ -42,3 +42,14 @@ Udacity's Deep Learning Foundation Nanodegree Program
         ![Image of dropout](./static/dropout.png)
 
     - Artificially increasing the training set 
+
+## [Weight initialization](http://neuralnetworksanddeeplearning.com/chap3#weight_initialization)
+
+- We can do quite a bit better than initializing with normalized `Gaussians`
+- [Hands On](https://github.com/udacity/deep-learning/blob/master/weight-initialization/weight_initialization.ipynb)
+- General rule for setting weights
+  - The general rule for setting the weights in a neural network is to be close to zero without being too small.
+  - A good pracitce is to start your weights in the range of $[-y, y]$ where $y=1/\sqrt{n}$ ($n$ is the number of inputs to a given neuron).
+
+
+## Relu

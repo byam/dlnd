@@ -8,6 +8,7 @@ Udacity's Deep Learning Foundation Nanodegree Program
     - Replacing the `quadratic cost` with a different cost function, known as the `cross-entropy`.
     - We often learn fastest when we're badly wrong about something.
 - [Introducing the cross-entropy cost function](http://neuralnetworksanddeeplearning.com/chap3.html#introducing_the_cross-entropy_cost_function)
+    ![Image of entropy](./static/cross-entropy.png)
 
 ## Softmax
 
@@ -15,6 +16,8 @@ Udacity's Deep Learning Foundation Nanodegree Program
     - http://neuralnetworksanddeeplearning.com/chap3.html#softmax
     - However, we don't apply the `sigmoid function` to get the output. 
     - Instead, in a `softmax layer` we apply the so-called `softmax function`
+    ![Image of softmax](./static/softmax.png)
+
 
 ## [Overfitting and regularization](http://neuralnetworksanddeeplearning.com/chap3.html#overfitting_and_regularization)
 

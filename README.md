@@ -51,5 +51,8 @@ Udacity's Deep Learning Foundation Nanodegree Program
   - The general rule for setting the weights in a neural network is to be close to zero without being too small.
   - A good pracitce is to start your weights in the range of $[-y, y]$ where $y=1/\sqrt{n}$ ($n$ is the number of inputs to a given neuron).
 
+## [Introducing convolutional networks](http://neuralnetworksanddeeplearning.com/chap6.html#introducing_convolutional_networks)
 
-## Relu
+- Adjacent layers
+    - ![adjacent layers](http://neuralnetworksanddeeplearning.com/images/tikz41.png)
+    - <img src="http://neuralnetworksanddeeplearning.com/images/tikz41.png" width="200">

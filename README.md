@@ -53,5 +53,16 @@ Udacity's Deep Learning Foundation Nanodegree Program
 
 ## [Introducing convolutional networks](http://neuralnetworksanddeeplearning.com/chap6.html#introducing_convolutional_networks)
 
-- Adjacent layers
-    - <img src="http://neuralnetworksanddeeplearning.com/images/tikz41.png" width="500">
+- **Adjacent layers**
+    <img src="http://neuralnetworksanddeeplearning.com/images/tikz41.png" width="500">
+- **Local receptive fields**
+    <img src="http://neuralnetworksanddeeplearning.com/images/tikz45.png" width="500">
+- **Shared weights and biases**
+    - To use the same `weights` and `bias` for each of the hidden neurons.
+    - This means that all the neurons in the first hidden layer detect exactly the same feature just at different locations in the input image.
+- **Pooling Layers**
+    - A pooling layer takes each feature map, output from the convolutional layer and prepares a condensed feature map
+    - Max Pooling
+        <img src="http://neuralnetworksanddeeplearning.com/images/tikz47.png" width="500">
+- **Putting it all together***
+        <img src="http://neuralnetworksanddeeplearning.com/images/tikz49.png" width="800">

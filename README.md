@@ -54,5 +54,4 @@ Udacity's Deep Learning Foundation Nanodegree Program
 ## [Introducing convolutional networks](http://neuralnetworksanddeeplearning.com/chap6.html#introducing_convolutional_networks)
 
 - Adjacent layers
-    - ![adjacent layers](http://neuralnetworksanddeeplearning.com/images/tikz41.png)
-    - <img src="http://neuralnetworksanddeeplearning.com/images/tikz41.png" width="200">
+    - <img src="http://neuralnetworksanddeeplearning.com/images/tikz41.png" width="500">

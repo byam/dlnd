@@ -155,3 +155,4 @@ ENV/
 3.ConvolutionalNeuralNetworks/intro-to-tensorflow/notMNIST*
 project2-image-classification/cifar-10-python.tar.gz
 project2-image-classification/preprocess_*
+*.DS_Store

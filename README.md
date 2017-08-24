@@ -7,6 +7,7 @@ Udacity's Deep Learning Foundation Nanodegree Program
     - [Overfitting and regularization](#Overfitting and regularization)
     - [Weight initialization](#Weight initialization)
     - [Introducing convolutional networks](#Introducing convolutional networks)
+    - [Autoencoders](#Autoencoders)
 
 ## Cross-Entropy
 
@@ -71,3 +72,7 @@ Udacity's Deep Learning Foundation Nanodegree Program
         <br/><p align="center"> <img src="http://neuralnetworksanddeeplearning.com/images/tikz47.png" width="500"></p>
 - **Putting it all together**
         <br/><p align="center"> <img src="http://neuralnetworksanddeeplearning.com/images/tikz49.png" width="800"></p>
+
+## Autoencoders
+
+- Autoencoders are used to compress data, as well as image denoising

@@ -2,12 +2,12 @@
 Udacity's Deep Learning Foundation Nanodegree Program
 
 - [Deep Learning Main Concepts](#dlnd)
-    - [Cross-Entropy](##Cross-Entropy)
-    - [Softmax](##Softmax)
-    - [Overfitting and regularization](##Overfitting and regularization)
-    - [Weight initialization](##Weight initialization)
-    - [Introducing convolutional networks](##Introducing convolutional networks)
-    - [Autoencoders](##Autoencoders)
+    - [Cross-Entropy](#Cross-Entropy)
+    - [Softmax](#Softmax)
+    - [Overfitting and regularization](#Overfitting and regularization)
+    - [Weight initialization](#Weight initialization)
+    - [Introducing convolutional networks](#Introducing convolutional networks)
+    - [Autoencoders](#Autoencoders)
 
 ## Cross-Entropy
 

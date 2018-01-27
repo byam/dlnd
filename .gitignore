@@ -156,3 +156,5 @@ ENV/
 project2-image-classification/cifar-10-python.tar.gz
 project2-image-classification/preprocess_*
 *.DS_Store
+5.GenerativeAdversarialNetworks/batch-norm/MNIST_data/
+5.GenerativeAdversarialNetworks/data/
